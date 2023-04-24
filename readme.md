@@ -2,4 +2,4 @@
 
 title is self explanatory
 
-comming soon shortly
+coming soon shortly
